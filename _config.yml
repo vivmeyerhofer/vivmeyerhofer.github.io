@@ -1,1 +1,2 @@
-remote_theme: sidey-jekyll
+# remote_theme: sidey-jekyll
+theme: jekyll-theme-midnight 
